@@ -11,3 +11,9 @@ main {
 h1 {
   text-align: center;
 }
+.cardsstats {
+  background-image: url("../img/pattern.png");
+  background-color: white;
+  width: 200px;
+  height: 250px;
+}
