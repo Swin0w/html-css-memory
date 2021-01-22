@@ -4,6 +4,9 @@ body{
   font-family: 'Nerko One', cursive;
   margin: 0;
 }
+main {
+  margin: 30px 20% 30px 20%;
+}
 /* Regole corpo della pagina */
 h1 {
   text-align: center;
