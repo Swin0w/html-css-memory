@@ -5,7 +5,7 @@ body{
   margin: 0;
 }
 main {
-  margin: 30px 20% 30px 20%;
+  margin: 30px 30% 30px 30%;
 }
 /* Regole corpo della pagina */
 h1 {
@@ -14,8 +14,21 @@ h1 {
 .cardsstats {
   background-image: url("../img/pattern.png");
   background-color: white;
-  background-size: 50%;
+  background-size: 70%;
   width: 200px;
   height: 250px;
   border-radius: 10px;
+  display: inline-block;
+}
+#first, #second {
+  margin-left: 50px;
+}
+#zero:hover {
+  background-image: url("../img/noun_Bicycle_3134821.png")
+}
+#first:hover{
+
+}
+#second:hover {
+
 }
