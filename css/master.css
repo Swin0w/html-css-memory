@@ -14,6 +14,7 @@ h1 {
 .cardsstats {
   background-image: url("../img/pattern.png");
   background-color: white;
+  background-size: 50%;
   width: 200px;
   height: 250px;
   border-radius: 10px;
