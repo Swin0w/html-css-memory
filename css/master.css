@@ -16,7 +16,7 @@ h1 {
   background-color: white;
   background-size: 70%;
   width: 200px;
-  height: 250px;
+  height: 200px;
   border-radius: 10px;
   display: inline-block;
 }
@@ -24,11 +24,14 @@ h1 {
   margin-left: 50px;
 }
 #zero:hover {
-  background-image: url("../img/noun_Bicycle_3134821.png")
+  background-image: url("../img/noun_Bicycle_3134821.png");
+  background-size: contain;
 }
 #first:hover{
-
+  background-image: url("../img/noun_Cruise_Ship_3134824.png");
+  background-size: contain;
 }
 #second:hover {
-
+  background-image: url("../img/noun_Tractor_3134797.png");
+  background-size: contain;
 }
