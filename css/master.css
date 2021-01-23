@@ -5,11 +5,15 @@ body{
   margin: 0;
 }
 main {
-  margin: 30px 30% 30px 30%;
+  margin: 70px 25% 30px 25%;
+}
+#line-2, #line-3 {
+  margin-top: 30px;
 }
 /* Regole corpo della pagina */
 h1 {
   text-align: center;
+  color: white;
 }
 .cardsstats {
   background-image: url("../img/pattern.png");
@@ -20,8 +24,8 @@ h1 {
   border-radius: 10px;
   display: inline-block;
 }
-#first, #second {
-  margin-left: 50px;
+#first, #second,#third, #first-blank, #second-c, #third-d, #first-bc, #second-cd, #third-de {
+  margin-left: 30px;
 }
 #zero:hover {
   background-image: url("../img/noun_Bicycle_3134821.png");
@@ -33,5 +37,33 @@ h1 {
 }
 #second:hover {
   background-image: url("../img/noun_Tractor_3134797.png");
+  background-size: contain;
+}
+#third:hover {
+  background-image:
+}
+#zero-a:hover {
+  background-image: url("../img/noun_Tram_3134750.png");
+  background-size: contain;
+}
+#first-blank {
+  background-image: none;
+}
+img[src="img/noun_air_balloon_3134741.png"] {
+  width: 200px;
+  height: 175px;
+}
+span{
+  position: relative;
+  top: -10px;
+  left: 60px;
+  color: red;
+}
+#second-c:hover {
+  background-image: url("../img/noun_Bicycle_3134821.png");
+  background-size: contain;
+}
+#third-d:hover {
+  background-image: url("../img/noun_Cruise_Ship_3134824.png");
   background-size: contain;
 }
