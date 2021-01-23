@@ -40,7 +40,8 @@ h1 {
   background-size: contain;
 }
 #third:hover {
-  background-image:
+  background-image: url("../img/noun_Submarine_3134738.png");
+  background-size: contain;
 }
 #zero-a:hover {
   background-image: url("../img/noun_Tram_3134750.png");
@@ -65,5 +66,20 @@ span{
 }
 #third-d:hover {
   background-image: url("../img/noun_Cruise_Ship_3134824.png");
+  background-size: contain;
+}
+#zero-ab:hover {
+
+}
+#first-bc:hover{
+  background-image: url("../img/noun_air_balloon_3134741.png");
+  background-size: contain;
+}
+#second-cd:hover {
+  background-image: url("../img/noun_Submarine_3134738.png");
+  background-size: contain;
+}
+#third-de:hover {
+  background-image: url("../img/noun_Tram_3134750.png");
   background-size: contain;
 }
