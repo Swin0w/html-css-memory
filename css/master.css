@@ -69,7 +69,10 @@ span{
   background-size: contain;
 }
 #zero-ab:hover {
-
+  background-image: url("../img/noun_Tractor_3134797.png");
+  background-repeat: no-repeat;
+  background-size: 200px 150px;
+  background-position: top;
 }
 #first-bc:hover{
   background-image: url("../img/noun_air_balloon_3134741.png");
